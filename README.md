@@ -1,4 +1,4 @@
-
+![](geomastodon.png)
 
 <h4 align="center">This repository contains all the Mastodon <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/319/mammoth_1f9a3.png" align="center" width="25px"/> accounts of rspatial <img src="https://avatars.githubusercontent.com/u/25086656?s=200&v=4" align="center" width="25px"/> members and some R developers with a spatial focus 👩‍💻 👨‍💻, as well as some of their communities 📣 <img src="https://raw.githubusercontent.com/ambarja/Workshop-MasterGIS2021/gh-pages/img/globe.gif" align="center" width="30px"/>.</h4>
 
