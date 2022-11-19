@@ -29,6 +29,7 @@
 - Vero Andreo - https://fosstodon.org/@VeronicaAndreo
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Michael Sumner - https://fosstodon.org/@mdsumner
+- Adrián Calleros - https://fosstodon.org/@calleros
 - OpenGeoHub Foundation - https://fosstodon.org/@opengeohub
 
 ## Contribution
