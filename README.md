@@ -15,6 +15,7 @@
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Gabo Gaona - https://fosstodon.org/@gavg712
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
+- Jindra Lacko - https://fosstodon.org/@jladata
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
 - Michael Sumner - https://fosstodon.org/@mdsumner
