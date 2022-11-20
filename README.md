@@ -16,6 +16,7 @@
 - Gabo Gaona - https://fosstodon.org/@gavg712
 - Grzegorz Sapijaszko - https://fosstodon.org/@gsapijaszko
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
+- James Smith - https://fosstodon.org/@TheRealJimShady
 - Jindra Lacko - https://fosstodon.org/@jladata
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
