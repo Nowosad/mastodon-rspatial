@@ -12,6 +12,7 @@
 - Edzer Pebesma - https://fosstodon.org/@edzer@mastodon.social
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Gabo Gaona - https://fosstodon.org/@gavg712
+- Grzegorz Sapijaszko - https://fosstodon.org/@gsapijaszko
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
