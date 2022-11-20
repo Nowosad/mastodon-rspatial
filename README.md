@@ -10,7 +10,7 @@
 - Antony Barja - https://fosstodon.org/@ambarja
 - Dewey Dunnington - https://fosstodon.org/@paleolimbot
 - Diego Hernangómez - https://fosstodon.org/@dhernangomez
-- Dominic Royé - https://mstdn.social/@dr_xeo
+- Dominic Royé - https://fosstodon.org/@dr_xeo@mstdn.social
 - Edzer Pebesma - https://fosstodon.org/@edzer@mastodon.social
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Gabo Gaona - https://fosstodon.org/@gavg712
