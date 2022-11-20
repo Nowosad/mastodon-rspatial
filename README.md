@@ -9,11 +9,14 @@
 - Alex Quevedo - https://fosstodon.org/@alequech
 - Antony Barja - https://fosstodon.org/@ambarja
 - Dewey Dunnington - https://fosstodon.org/@paleolimbot
+- Diego Hernangómez - https://fosstodon.org/@dhernangomez
+- Dominic Royé - https://fosstodon.org/@dr_xeo@mstdn.social
 - Edzer Pebesma - https://fosstodon.org/@edzer@mastodon.social
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Gabo Gaona - https://fosstodon.org/@gavg712
 - Grzegorz Sapijaszko - https://fosstodon.org/@gsapijaszko
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
+- Jindra Lacko - https://fosstodon.org/@jladata
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
 - Michael Sumner - https://fosstodon.org/@mdsumner
