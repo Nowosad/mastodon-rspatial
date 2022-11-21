@@ -33,6 +33,7 @@
 - Timothée Giraud - https://fosstodon.org/@rcarto
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
+- Paulo van Breugel - https://fosstodon.org/@ecodiv
 
 # 🔵 Communities and organizations
 
