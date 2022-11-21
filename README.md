@@ -34,6 +34,7 @@
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
 - Paulo van Breugel - https://fosstodon.org/@ecodiv
+- Tesla DuBois - https://fosstodon.org/@TeslaDuBois
 
 # 🔵 Communities and organizations
 
