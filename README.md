@@ -7,6 +7,7 @@
 
 - Adrián Calleros - https://fosstodon.org/@calleros
 - Alex Quevedo - https://fosstodon.org/@alequech
+- Antonio Páez - https://mastodon.online/@paezha 
 - Antony Barja - https://fosstodon.org/@ambarja
 - Dewey Dunnington - https://fosstodon.org/@paleolimbot
 - Diego Hernangómez - https://fosstodon.org/@dhernangomez
