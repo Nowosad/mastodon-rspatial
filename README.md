@@ -16,25 +16,25 @@
 - Gabo Gaona - https://fosstodon.org/@gavg712
 - Grzegorz Sapijaszko - https://fosstodon.org/@gsapijaszko
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
+- Jakub Nowosad - https://fosstodon.org/@nowosad
 - James Smith - https://fosstodon.org/@TheRealJimShady
 - Jindra Lacko - https://fosstodon.org/@jladata
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
 - Michael Sumner - https://fosstodon.org/@mdsumner
 - Mike Mahoney - https://fosstodon.org/@MikeMahoney218
-- Jakub Nowosad - https://fosstodon.org/@nowosad
+- Paulo van Breugel - https://fosstodon.org/@ecodiv
 - Rafael H M Pereira - https://fosstodon.org/@UrbanDemog@toot.community
 - Raúl Nanclares - https://fosstodon.org/@rnanclares
 - Robin Lovelace - https://fosstodon.org/@robinlovelace
 - Roger Bivand - https://fosstodon.org/@rsbivand
 - Spencer Schien - https://fosstodon.org/@MrPecners
 - Stefano De Sabbata - https://fosstodon.org/@sdesabbata
+- Tesla DuBois - https://fosstodon.org/@TeslaDuBois
 - Tim Appelhans - https://fosstodon.org/@tim_salabim
 - Timothée Giraud - https://fosstodon.org/@rcarto
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
-- Paulo van Breugel - https://fosstodon.org/@ecodiv
-- Tesla DuBois - https://fosstodon.org/@TeslaDuBois
 
 # 🔵 Communities and organizations
 
