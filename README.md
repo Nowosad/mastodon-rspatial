@@ -22,6 +22,7 @@
 - James Smith - https://fosstodon.org/@TheRealJimShady
 - Jindra Lacko - https://fosstodon.org/@jladata
 - Lorena Abad - https://fosstodon.org/@loreabad6
+- Marco Sciaini - https://fosstodon.org/@shinysci
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
 - Michael Sumner - https://fosstodon.org/@mdsumner
 - Mike Mahoney - https://fosstodon.org/@MikeMahoney218
@@ -37,7 +38,6 @@
 - Timothée Giraud - https://fosstodon.org/@rcarto
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
-- Marco Sciaini - https://fosstodon.org/@shinysci
 
 # 🔵 Communities and organizations
 
