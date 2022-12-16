@@ -37,6 +37,7 @@
 - Timothée Giraud - https://fosstodon.org/@rcarto
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
+- Marco Sciaini - https://fosstodon.org/@shinysci
 
 # 🔵 Communities and organizations
 
