@@ -21,6 +21,7 @@
 - Jakub Nowosad - https://fosstodon.org/@nowosad
 - James Smith - https://fosstodon.org/@TheRealJimShady
 - Jindra Lacko - https://fosstodon.org/@jladata
+- Krzysztof Dyba - https://fosstodon.org/@krzysztof_dyba
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Marco Sciaini - https://fosstodon.org/@shinysci
 - Michael Dorman - https://fosstodon.org/@michaeldorman84
