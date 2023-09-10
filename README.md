@@ -30,6 +30,7 @@
 - Michael Sumner - https://fosstodon.org/@mdsumner
 - Mike Mahoney - https://fosstodon.org/@MikeMahoney218
 - Paulo van Breugel - https://fosstodon.org/@ecodiv
+- Philippe Massicotte - https://fosstodon.org/@philmassicotte
 - Rafael H M Pereira - https://fosstodon.org/@UrbanDemog@toot.community
 - Raúl Nanclares - https://fosstodon.org/@rnanclares
 - Robin Lovelace - https://fosstodon.org/@robinlovelace
