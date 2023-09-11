@@ -42,7 +42,7 @@
 - Timothée Giraud - https://fosstodon.org/@rcarto
 - Tyler Morgan - https://fosstodon.org/@tylermorganwall
 - Veronica Andreo - https://fosstodon.org/@VeronicaAndreo
-- Koen Hufkens - https://fosstodon.org/@@koen_hufkens@mastodon.social
+- Koen Hufkens - https://fosstodon.org/@koen_hufkens@mastodon.social
 
 # 🔵 Communities and organizations
 
