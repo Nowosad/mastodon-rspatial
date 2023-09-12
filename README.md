@@ -23,6 +23,7 @@
 - James Smith - https://fosstodon.org/@TheRealJimShady
 - Jindra Lacko - https://fosstodon.org/@jladata
 - Josep Pueyo-Ros - https://fosstodon.org/@jospueyo
+- Koen Hufkens - https://fosstodon.org/@koen_hufkens@mastodon.social
 - Krzysztof Dyba - https://fosstodon.org/@krzysztof_dyba
 - Lorena Abad - https://fosstodon.org/@loreabad6
 - Marco Sciaini - https://fosstodon.org/@shinysci
