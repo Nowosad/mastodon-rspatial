@@ -16,6 +16,7 @@
 - Edzer Pebesma - https://fosstodon.org/@edzer@mastodon.social
 - Elio Campitelli - https://fosstodon.org/@eliocamp@mastodon.social
 - Federica Gazzelloni - https://fosstodon.org/@fgazzelloni
+- Floris Vanderhaeghe - https://fosstodon.org/@florisvdh
 - Gabo Gaona - https://fosstodon.org/@gavg712
 - Grzegorz Sapijaszko - https://fosstodon.org/@gsapijaszko
 - Hanna Meyer - https://fosstodon.org/@HannaMeyer@fediscience.org
