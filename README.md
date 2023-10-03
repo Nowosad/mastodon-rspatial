@@ -10,6 +10,7 @@
 - Antonio Páez - https://mastodon.online/@paezha 
 - Antony Barja - https://fosstodon.org/@ambarja
 - Barry Rowlingson - https://mastodon.social/@geospacedman
+- Chris Toney - https://fosstodon.org/@ctoney
 - Dewey Dunnington - https://fosstodon.org/@paleolimbot
 - Diego Hernangómez - https://fosstodon.org/@dhernangomez
 - Dominic Royé - https://fosstodon.org/@dr_xeo@mstdn.social
